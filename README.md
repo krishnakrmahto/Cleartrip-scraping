@@ -1,13 +1,14 @@
 This scraper fetches the information of all the hotels in Miami.
 
-Website: `https://me.cleartrip.com/hotels/united-states/miami/`
+Website: `<a href='https://me.cleartrip.com/hotels/united-states/miami/'>https://me.cleartrip.com/hotels/united-states/</a>`
 
 ### Language:
 Python 3.5 (Anaconda)
 
-### Libraries used:
+### Libraries and tools used:
 `BeautifulSoup` for scraping static information.
 `Selenium` for scraping dynamically updated information.
+`Chromedriver` for enabling Selenium use browser automation.
 
 
 #### * Note:
