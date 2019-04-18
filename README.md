@@ -1,6 +1,6 @@
 This scraper fetches the information of all the hotels in Miami.
 
-Website: `<a href='https://me.cleartrip.com/hotels/united-states/miami/'>https://me.cleartrip.com/hotels/united-states/</a>`
+Website: https://me.cleartrip.com/hotels/united-states/
 
 ### Language:
 Python 3.5 (Anaconda)
